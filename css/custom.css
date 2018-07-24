@@ -1,0 +1,22 @@
+.site-logo {
+    padding: 25px 0;
+    background-color: #0598EC;
+    text-align: center;
+}
+.site-logo a {
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+}
+.section-search input{
+    padding: 5px !important;
+    font-size: 1.125rem;
+    width: 98% !important;
+    border: #f4f4f4 3px solid !important;
+}
+.section-follow .fa-4x {
+    margin: 5px 10px;
+}
+.grey.lighten-3 {
+    background-color: #fefefe !important;
+}
